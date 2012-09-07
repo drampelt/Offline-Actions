@@ -1,0 +1,8 @@
+author: Daniel
+database: false
+description: Many useful commands to interact with offline players.
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: ca.drmc.offlineactions.OfflineActions
+name: OfflineActions
+startup: postworld
+version: '1.0'
